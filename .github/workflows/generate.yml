@@ -16,7 +16,10 @@ jobs:
 
       - name: Make generate.sh executable
         run: chmod +x ./generate.sh
-
+  
+      - name: Remove all non-.sh files
+        run: |
+          find . -type f ! -name "*.sh" -exec rm -f {} +
       - name: Run generate.sh
         run: ./generate.sh
 
