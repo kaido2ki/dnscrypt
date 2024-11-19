@@ -44,3 +44,4 @@ wget -N https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/
 wget -N https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/public-resolvers.md
 wget -N https://raw.githubusercontent.com/DNSCrypt/dnscrypt-resolvers/master/v3/relays.md
 wget -N https://www.quad9.net/quad9-resolvers.md
+
