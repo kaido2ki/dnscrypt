@@ -37,6 +37,6 @@ jobs:
         run: git commit -m "Auto-generate files by GitHub Actions"
 
       - name: Push changes
-        run: git push
+        run: git push -f
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
