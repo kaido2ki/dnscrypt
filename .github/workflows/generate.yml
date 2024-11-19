@@ -19,7 +19,7 @@ jobs:
   
       - name: Remove all non-.sh files
         run: |
-          find . -type f ! -name "*.sh" -exec rm -f {} +
+          find . -type f ! -name "*.sh" ! -path "./.git/*" -exec rm -f {} +
       - name: Run generate.sh
         run: ./generate.sh
 
