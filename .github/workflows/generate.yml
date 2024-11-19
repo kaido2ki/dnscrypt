@@ -1,0 +1,45 @@
+name: Run generate.sh and commit changes
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  run-generate-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Make generate.sh executable
+        run: chmod +x ./generate.sh
+  
+      - name: Remove all non-.sh files
+        run: |
+          find . -type f ! -name "*.sh" ! -path "./.git/* ! -path "./.github/*" -exec rm -f {} +
+      - name: Run generate.sh
+        run: ./generate.sh
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Check for changes
+        run: |
+          git add -A
+          if git diff-index --quiet HEAD; then
+            echo "No changes detected, skipping commit."
+            exit 0
+          fi
+
+      - name: Commit changes
+        run: git commit -m "Auto-generate files by GitHub Actions"
+
+      - name: Push changes
+        run: git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
