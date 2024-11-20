@@ -647,6 +647,7 @@ sdns://AgMAAAAAAAAAAAAWWzI2MDY6NDcwMDo0NzAwOjoxMDAyXQovZG5zLXF1ZXJ5
 Comodo Dome Shield (anycast) - https://cdome.comodo.com/shield/
 
 sdns://AQUAAAAAAAAACjguMjAuMjQ3LjIg0sJUqpYcHsoXmZb1X7yAHwg2xyN5q1J-zaiGG-Dgs7AoMi5kbnNjcnlwdC1jZXJ0LnNoaWVsZC0yLmRuc2J5Y29tb2RvLmNvbQ
+sdns://AQUAAAAAAAAACzguMjAuMjQ3LjIwINLCVKqWHB7KF5mW9V-8gB8INscjeatSfs2ohhvg4LOwKDIuZG5zY3J5cHQtY2VydC5zaGllbGQtMi5kbnNieWNvbW9kby5jb20
 sdns://AQUAAAAAAAAACjguMjYuNTYuMjYg0sJUqpYcHsoXmZb1X7yAHwg2xyN5q1J-zaiGG-Dgs7AoMi5kbnNjcnlwdC1jZXJ0LnNoaWVsZC0yLmRuc2J5Y29tb2RvLmNvbQ
 
 
@@ -1531,15 +1532,6 @@ DNSCry.pt Eygelshoven - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 serve
 https://www.dnscry.pt
 
 sdns://AQcAAAAAAAAADDkzLjk1LjExNS4yMSDit1FyUAiu0W-x936EJIC1keajbwu1pvb6yVKVj0KVYhkyLmRuc2NyeXB0LWNlcnQuZG5zY3J5LnB0
-
-
-## dnscry.pt-eygelshoven-ipv6
-
-DNSCry.pt Eygelshoven - DNSCrypt, no filter, no logs, DNSSEC support (IPv6 server)
-
-https://www.dnscry.pt
-
-sdns://AQcAAAAAAAAAH1syYTBmOmNhODE6MTMzYjozY2I1OjpiMWIxOjY0MV0g4rdRclAIrtFvsfd-hCSAtZHmo28Ltab2-slSlY9ClWIZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
 
 
 ## dnscry.pt-flint-ipv4
