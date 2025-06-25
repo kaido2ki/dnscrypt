@@ -326,15 +326,57 @@ keeping personal data under the control of the end user.</p>
   <section class="home-section testimonials">
     <div class="container scrollbox">
       <blockquote class="__testimonial">
-        <p>The privacy and security of Internet users depend on the availability of private and secure services, critically including Domain Name System resolvers. Digitale Gesellschaft operates one such DNS resolver for Switzerland, and we welcome Quad9 and its established global reach to Switzerland.</p>
+        <p>Digital leaders in Switzerland are reviewing IT strategies to ensure best practices across their digital transformation journeys. Companies like Quad9 are providing key solutions in this area, supporting everyday web traffic, fundamental to the internet puzzle. We are delighted to host this important service at Equinix.</p>
 
         <aside>
-          <img src="/testimonials/digitale-gesellschaft-erik-schoenenberger/Portrait_Placeholder_df33e7cfc5.png" alt="image">
+          <img src="/testimonials/equinix-switzerland-roger-semprini/roger_7a5d313888.jpg" alt="image">
           <span>
-            <strong>Erik Schönenberger</strong>
+            <strong>Roger Semprini</strong>
             <br>
-            <p>Executive Officer,<br>
-              Digitale Gesellschaft
+            <p>Managing Director,<br>
+              Equinix Switzerland
+            </p>
+          </span>
+        </aside>
+      </blockquote>
+      <blockquote class="__testimonial">
+        <p>I’m really impressed by the privacy architecture of Quad9.  In addition to providing great security as a DNS resolver, Quad9 doesn’t collect or retain personal data.  Now, it is relocating to Switzerland, where it will become subject to the rigors of Swiss data protection law, which is similar to GDPR.  In addition, it obtained findings of law from the Swiss government whereby it won’t be required to retain personal information, nor will it be subject to requests from law enforcement or national security</p>
+
+        <aside>
+          <img src="/testimonials/international-association-of-privacy-professionals-omer-tene/download_7781d92e0b.png" alt="image">
+          <span>
+            <strong>Omer Tene</strong>
+            <br>
+            <p>Vice President and Chief Knowledge Officer,<br>
+              International Association of Privacy Professionals
+            </p>
+          </span>
+        </aside>
+      </blockquote>
+      <blockquote class="__testimonial">
+        <p>Privacy matters, but is increasingly endangered. We&rsquo;re happy to have another major internet infrastructure provider joining the European tech ecosystem, illustrating again that privacy is the future for European tech.</p>
+
+        <aside>
+          <img src="/testimonials/protonmail-dr-andy-yen/andy_acb0178fc6.jpeg" alt="image">
+          <span>
+            <strong>Dr. Andy Yen</strong>
+            <br>
+            <p>Founder and CEO,<br>
+              ProtonMail
+            </p>
+          </span>
+        </aside>
+      </blockquote>
+      <blockquote class="__testimonial">
+        <p>Quad9 provides an invaluable service keeping internet users secure. Their continued development as an international non-profit, domiciled in a place with strong privacy laws, will ensure that this mission continues to be successful.</p>
+
+        <aside>
+          <img src="/testimonials/forum-of-incident-response-and-security-teams-dr-serge-droz/serge_droz_34b05dcdc4.jpg" alt="image">
+          <span>
+            <strong>Dr. Serge Droz</strong>
+            <br>
+            <p>Chair,<br>
+              Forum of Incident Response and Security Teams
             </p>
           </span>
         </aside>
@@ -368,20 +410,6 @@ keeping personal data under the control of the end user.</p>
         </aside>
       </blockquote>
       <blockquote class="__testimonial">
-        <p>Privacy matters, but is increasingly endangered. We&rsquo;re happy to have another major internet infrastructure provider joining the European tech ecosystem, illustrating again that privacy is the future for European tech.</p>
-
-        <aside>
-          <img src="/testimonials/protonmail-dr-andy-yen/andy_acb0178fc6.jpeg" alt="image">
-          <span>
-            <strong>Dr. Andy Yen</strong>
-            <br>
-            <p>Founder and CEO,<br>
-              ProtonMail
-            </p>
-          </span>
-        </aside>
-      </blockquote>
-      <blockquote class="__testimonial">
         <p>End users have made it clear to industry that privacy should be a central focus for Internet platforms and infrastructure. This demand-side dynamic cannot be fulfilled with the promises of encryption technology alone, however. Quad9 understands the need to compliment complement their its secure and privacy-preserving protocols with policies and practices that protect users too. Based in Europe, Quad9&rsquo;s DNS service now leverages a strong regulatory environment in the public interest.</p>
 
         <aside>
@@ -396,29 +424,58 @@ keeping personal data under the control of the end user.</p>
         </aside>
       </blockquote>
       <blockquote class="__testimonial">
-        <p>Quad9 provides an invaluable service keeping internet users secure. Their continued development as an international non-profit, domiciled in a place with strong privacy laws, will ensure that this mission continues to be successful.</p>
+        <p>This step by Quad9 is a good example of what may need to be done to increase confidence in the Internet globally. It also demonstrates the importance of all stakeholders playing their respective roles - technical community providing a robust technical solution, private sector enabling and supporting the model, and robust government regulation providing a trust-guarantee. A welcome addition to the Internet infrastructure</p>
 
         <aside>
-          <img src="/testimonials/forum-of-incident-response-and-security-teams-dr-serge-droz/serge_droz_34b05dcdc4.jpg" alt="image">
+          <img src="/testimonials/international-telecommunication-union-itu-tomas-lamanauskas/Tomas_Lamanauskas_229889_79073a4c1f.jpg" alt="image">
           <span>
-            <strong>Dr. Serge Droz</strong>
+            <strong>Tomas Lamanauskas</strong>
             <br>
-            <p>Chair,<br>
-              Forum of Incident Response and Security Teams
+            <p>Head of Corporate Strategy Division,<br>
+              International Telecommunication Union ITU
             </p>
           </span>
         </aside>
       </blockquote>
       <blockquote class="__testimonial">
-        <p>As the CEO of Alta Associates, the leading executive search firm in Cybersecurity, and Founder of the Executive Women’s Forum on Information Security, Risk Management &amp; Privacy, I have a unique understanding of the challenges cybersecurity leaders face. Quad9 provides these leaders with an actionable way to protect their systems against threats while preserving their end-users privacy.</p>
+        <p>As a European DNS vendor, we welcome Quad9&rsquo;s decision to relocate to Switzerland, providing a much needed GDPR-guaranteed public resolver. This proves that strong privacy laws actually attract business.</p>
 
         <aside>
-          <img src="/testimonials/founder-executive-women-s-forum-joyce-brocaglia/joyce_39cbcb3595.jpg" alt="image">
+          <img src="/testimonials/open-xchange-vittorio-bertola/vittorio_10ff1d8886.jpg" alt="image">
           <span>
-            <strong>Joyce Brocaglia</strong>
+            <strong>Vittorio Bertola</strong>
             <br>
-            <p>CEO Alta Associates,<br>
-              Founder Executive Women&#39;s Forum
+            <p>Head of Policy &amp; Innovation,<br>
+              Open-Xchange
+            </p>
+          </span>
+        </aside>
+      </blockquote>
+      <blockquote class="__testimonial">
+        <p>Quad9’s organizational move to Switzerland is important for the free and open internet because it provides much-needed geographic and legal diversity in the open DNS resolver space. It also shows that Quad9 is actively seeking to work within the legislative framework that best serves the privacy of its users.</p>
+<p>I support the Quad9 open resolver because it puts the end user first and helps build a secure and private internet without collecting – and therefore without the possibility of commercializing – users’ personal information. I believe Quad9’s philosophy of openness and transparency in handling users’ data resonates strongly with the core beliefs of our community.</p>
+
+        <aside>
+          <img src="/testimonials/ripe-christian-kaufmann/chris_kauf_67153b07f1.jpg" alt="image">
+          <span>
+            <strong>Christian Kaufmann</strong>
+            <br>
+            <p>Chairman,<br>
+              RIPE
+            </p>
+          </span>
+        </aside>
+      </blockquote>
+      <blockquote class="__testimonial">
+        <p>The privacy and security of Internet users depend on the availability of private and secure services, critically including Domain Name System resolvers. Digitale Gesellschaft operates one such DNS resolver for Switzerland, and we welcome Quad9 and its established global reach to Switzerland.</p>
+
+        <aside>
+          <img src="/testimonials/digitale-gesellschaft-erik-schoenenberger/Portrait_Placeholder_df33e7cfc5.png" alt="image">
+          <span>
+            <strong>Erik Schönenberger</strong>
+            <br>
+            <p>Executive Officer,<br>
+              Digitale Gesellschaft
             </p>
           </span>
         </aside>
@@ -452,72 +509,15 @@ keeping personal data under the control of the end user.</p>
         </aside>
       </blockquote>
       <blockquote class="__testimonial">
-        <p>Digital leaders in Switzerland are reviewing IT strategies to ensure best practices across their digital transformation journeys. Companies like Quad9 are providing key solutions in this area, supporting everyday web traffic, fundamental to the internet puzzle. We are delighted to host this important service at Equinix.</p>
+        <p>As the CEO of Alta Associates, the leading executive search firm in Cybersecurity, and Founder of the Executive Women’s Forum on Information Security, Risk Management &amp; Privacy, I have a unique understanding of the challenges cybersecurity leaders face. Quad9 provides these leaders with an actionable way to protect their systems against threats while preserving their end-users privacy.</p>
 
         <aside>
-          <img src="/testimonials/equinix-switzerland-roger-semprini/roger_7a5d313888.jpg" alt="image">
+          <img src="/testimonials/founder-executive-women-s-forum-joyce-brocaglia/joyce_39cbcb3595.jpg" alt="image">
           <span>
-            <strong>Roger Semprini</strong>
+            <strong>Joyce Brocaglia</strong>
             <br>
-            <p>Managing Director,<br>
-              Equinix Switzerland
-            </p>
-          </span>
-        </aside>
-      </blockquote>
-      <blockquote class="__testimonial">
-        <p>As a European DNS vendor, we welcome Quad9&rsquo;s decision to relocate to Switzerland, providing a much needed GDPR-guaranteed public resolver. This proves that strong privacy laws actually attract business.</p>
-
-        <aside>
-          <img src="/testimonials/open-xchange-vittorio-bertola/vittorio_10ff1d8886.jpg" alt="image">
-          <span>
-            <strong>Vittorio Bertola</strong>
-            <br>
-            <p>Head of Policy &amp; Innovation,<br>
-              Open-Xchange
-            </p>
-          </span>
-        </aside>
-      </blockquote>
-      <blockquote class="__testimonial">
-        <p>I’m really impressed by the privacy architecture of Quad9.  In addition to providing great security as a DNS resolver, Quad9 doesn’t collect or retain personal data.  Now, it is relocating to Switzerland, where it will become subject to the rigors of Swiss data protection law, which is similar to GDPR.  In addition, it obtained findings of law from the Swiss government whereby it won’t be required to retain personal information, nor will it be subject to requests from law enforcement or national security</p>
-
-        <aside>
-          <img src="/testimonials/international-association-of-privacy-professionals-omer-tene/download_7781d92e0b.png" alt="image">
-          <span>
-            <strong>Omer Tene</strong>
-            <br>
-            <p>Vice President and Chief Knowledge Officer,<br>
-              International Association of Privacy Professionals
-            </p>
-          </span>
-        </aside>
-      </blockquote>
-      <blockquote class="__testimonial">
-        <p>This step by Quad9 is a good example of what may need to be done to increase confidence in the Internet globally. It also demonstrates the importance of all stakeholders playing their respective roles - technical community providing a robust technical solution, private sector enabling and supporting the model, and robust government regulation providing a trust-guarantee. A welcome addition to the Internet infrastructure</p>
-
-        <aside>
-          <img src="/testimonials/international-telecommunication-union-itu-tomas-lamanauskas/Tomas_Lamanauskas_229889_79073a4c1f.jpg" alt="image">
-          <span>
-            <strong>Tomas Lamanauskas</strong>
-            <br>
-            <p>Head of Corporate Strategy Division,<br>
-              International Telecommunication Union ITU
-            </p>
-          </span>
-        </aside>
-      </blockquote>
-      <blockquote class="__testimonial">
-        <p>Quad9’s organizational move to Switzerland is important for the free and open internet because it provides much-needed geographic and legal diversity in the open DNS resolver space. It also shows that Quad9 is actively seeking to work within the legislative framework that best serves the privacy of its users.</p>
-<p>I support the Quad9 open resolver because it puts the end user first and helps build a secure and private internet without collecting – and therefore without the possibility of commercializing – users’ personal information. I believe Quad9’s philosophy of openness and transparency in handling users’ data resonates strongly with the core beliefs of our community.</p>
-
-        <aside>
-          <img src="/testimonials/ripe-christian-kaufmann/chris_kauf_67153b07f1.jpg" alt="image">
-          <span>
-            <strong>Christian Kaufmann</strong>
-            <br>
-            <p>Chairman,<br>
-              RIPE
+            <p>CEO Alta Associates,<br>
+              Founder Executive Women&#39;s Forum
             </p>
           </span>
         </aside>
